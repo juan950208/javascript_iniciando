@@ -2,4 +2,5 @@
 
 * guia  
 https://javascript.info/
-* index 
+* index  
+https://juan950208.github.io/javascript_iniciando/
