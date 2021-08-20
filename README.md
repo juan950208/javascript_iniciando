@@ -1,4 +1,4 @@
-# Repositorio de aprendizaje en java
+# Repositorio de aprendizaje en javascript
 
 * guia  
 https://javascript.info/
