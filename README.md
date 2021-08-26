@@ -3,4 +3,4 @@
 * guia  
 https://javascript.info/
 * index  
-https://juan950208.github.io/javascript_iniciando/basicos/index.html
+https://juan950208.github.io/javascript_iniciando/index.html
