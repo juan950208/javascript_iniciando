@@ -1,4 +1,5 @@
-let objeto = {};
+let objeto = {  
+};
 
 function vacio(object){
     for(let key in object){
